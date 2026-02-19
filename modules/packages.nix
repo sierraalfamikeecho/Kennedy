@@ -44,7 +44,6 @@
     gammastep
     ungoogled-chromium
     koruri
-    tor-browser
     playerctl
     lm_sensors
   ];

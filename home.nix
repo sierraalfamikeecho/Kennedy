@@ -91,4 +91,8 @@
   services.playerctld = {
     enable = true;
   };
+  services.trayscale = {
+    enable = true;
+    hideWindow = false;
+  };
 }

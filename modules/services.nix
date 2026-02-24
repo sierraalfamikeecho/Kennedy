@@ -5,9 +5,7 @@
 }: {
   services.tailscale = {
     enable = true;
-    openFirewall = true;
   };
-
   services.sysstat = {
     enable = true;
   };

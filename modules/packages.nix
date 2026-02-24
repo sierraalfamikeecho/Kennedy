@@ -46,6 +46,7 @@
     koruri
     playerctl
     lm_sensors
+    tailscale
   ];
 
   fonts.packages = with pkgs; [
